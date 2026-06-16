@@ -1,11 +1,13 @@
 ---
-layout: cv
+# layout: cv --- this shows the cv elements in the page
+layout: page
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+redirect: /assets/pdf/Nardiena_CV.pdf
+# cv_pdf: example_pdf.pdf # you can also use external links here
+description: Loading CV... You will be automatically redirected to the PDF document shortly.
+# toc:
+#   sidebar: left
 ---
