@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: profile_pic_square_edited.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>School of Informatics, University of Edinburgh, Edinburgh, EH8 9AB UK</p>
     
